@@ -1,4 +1,4 @@
-# Capstone Project: Predicting SpaceX Launching 
+# Capstone Project: Predicting the First Landing of SpaceX Falcon-9 
 
 ---
 
